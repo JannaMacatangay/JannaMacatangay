@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there, I'm Janna!
 
-<!--
-**JannaMacatangay/JannaMacatangay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year IT Student  
+📍 Polytechnic University of the Philippines – Sto. Tomas Campus  
 
-Here are some ideas to get you started:
+🚀 **Currently building:**  
+Capstone Project – **TODARescue App** 🚨  
+A mobile solution for real-time tricycle tracking and driver verification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Interests:**  
+UI/UX Design · Web Development · Human-Centered Design
+
+🎯 **Goal:**  
+Become a project manager who solves problems with creativity, empathy, and teamwork ✨
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** C++, C, HTML, CSS, JavaScript, PHP  
+- **Frameworks/Libraries:** Bootstrap  
+- **Design & Dev Tools:** Figma, Visual Studio Code, Photoshop  
+
+---
+
+🌱 **Always learning** how technology can solve real-world problems
+
+📫 **Let's connect!**  
+- ✉️ Email: jannamemacatangay5@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/janna-macatangay-19b885295/)
