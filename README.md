@@ -8,7 +8,7 @@ Capstone Project – **TODARescue App** 🚨
 A mobile solution for real-time tricycle tracking and driver verification
 
 💡 **Interests:**  
-UI/UX Design · Web Development · Human-Centered Design
+UI/UX Design · Web Development · Human-Centered Design · Project Management
 
 🎯 **Goal:**  
 Become a project manager who solves problems with creativity, empathy, and teamwork ✨
