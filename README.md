@@ -28,4 +28,4 @@ Become a project manager who solves problems with creativity, empathy, and teamw
 - ✉️ Email: jannamemacatangay5@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/janna-macatangay-19b885295/)
 
-[![](https://github-readme-stats.vercel.app/api?username=JannaMacatangay&show_icons=true&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&bg_color=222222&border_radius=12&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=JannaMacatangay&show_icons=true&title_color=FFC0CB&text_color=FFC0CB&icon_color=FFC0CB&bg_color=222222&border_radius=12&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
