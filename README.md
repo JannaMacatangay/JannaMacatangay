@@ -4,20 +4,9 @@
 </p>
 
 <hr>
-
-<h3>🎯 Currently Building</h3>
-<b>Capstone Project – TODARescue App</b><br>
-A mobile solution for real-time tricycle tracking and driver verification
-
-<hr>
-
-<h3>💡 Interests</h3>
-UI/UX Design · Web Development · Human-Centered Design · Project Management · Data Analytics
-
-<hr>
-
-<h3>🌟 Goal</h3>
-Become a <b>project manager</b> who solves problems with <b>creativity</b>, <b>empathy</b>, and <b>teamwork</b>.
+<p align="center">
+  I'm Janna Macatangay, an aspiring project manager and current student leader at the Polytechnic University of the Philippines – Sto. Tomas Campus. As an incoming 4th-year Information Technology student, I’m driven by a passion for creating a healthy, empowering environment for my peers—both in leadership and collaboration. I envision a future where I lead teams with empathy, clarity, and purpose. While honing my skills in project management, I’m also deeply interested in data analytics, recognizing its value in making informed, impactful decisions.
+</p>
 
 <hr>
 
