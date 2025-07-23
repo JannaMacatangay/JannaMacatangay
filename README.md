@@ -69,15 +69,34 @@ Fast learner · Adaptable
 
 <hr>
 
-<h3>🏢 GitHub Organizations</h3>
+<h3 align="center">🏢 <span style="color:#FFC0CB">GitHub Organizations</span></h3>
 
-<div align="center">
-  <img src="assets/bookblast.png" alt="Pages-Beyond: BookBlast" width="80" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/evently.png" alt="ADET FINAL PROJECT - Group 5" width="100" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/todarescue.png" alt="TODARescue" width="80" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Pages-Beyond/BookBlast-Website">
+        <img src="assets/bookblast.png" width="80" alt="BookBlast" />
+        <br />
+        📚 <strong>Pages-Beyond</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pupstc-student-academic-works/adet-grp-5">
+        <img src="assets/evently.png" width="100" alt="Event.ly" />
+        <br />
+        📅 <strong>Event.ly</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TODARescue">
+        <img src="assets/todarescue.png" width="80" alt="TODARescue" />
+        <br />
+        🛵 <strong>TODARescue</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <hr>
 
