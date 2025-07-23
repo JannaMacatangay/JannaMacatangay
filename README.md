@@ -1,6 +1,6 @@
-# Hi there, I'm Janna!
+<h1 style="color:#FFC0CB;">Hi there, I'm Janna!</h1>
 
-**incoming 4th Year IT Student**  
+**Incoming 4th Year IT Student**  
 Polytechnic University of the Philippines – Sto. Tomas Campus  
 
 ---
@@ -48,6 +48,7 @@ Become a project manager who solves problems with creativity, empathy, and teamw
 
 ### Foundational Knowledge  
 - Agile & Scrum Methodology  
+
 ---
 
 ### Skills
@@ -71,6 +72,24 @@ Become a project manager who solves problems with creativity, empathy, and teamw
 
 ---
 
-[![](https://github-readme-stats.vercel.app/api?username=JannaMacatangay&show_icons=true&title_color=FFC0CB&text_color=FFC0CB&icon_color=FFC0CB&bg_color=222222&border_radius=12&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JannaMacatangay&layout=compact&title_color=FFC0CB&text_color=FFC0CB&bg_color=222222&hide_border=true&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Organizations
 
+[![Pages-Beyond](https://avatars.githubusercontent.com/u/156422595?s=60&v=4)](https://github.com/Pages-Beyond)  
+**[Pages-Beyond](https://github.com/Pages-Beyond)**  
+_Web Development Final Project_
+
+[![PUPSTC Student Academic Works](https://avatars.githubusercontent.com/u/156422595?s=60&v=4)](https://github.com/pupstc-student-academic-works)  
+**[PUPSTC Student Academic Works](https://github.com/pupstc-student-academic-works)**  
+_ADET Final Project_
+
+[![TODARescue](https://avatars.githubusercontent.com/u/166734402?s=60&v=4)](https://github.com/TODARescue)  
+**[TODARescue](https://github.com/TODARescue)**  
+_Capstone Project_
+
+---
+
+### GitHub Stats
+
+[![](https://github-readme-stats.vercel.app/api?username=JannaMacatangay&show_icons=true&title_color=FFC0CB&text_color=FFC0CB&icon_color=FFC0CB&bg_color=222222&border_radius=12&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JannaMacatangay&layout=compact&title_color=FFC0CB&text_color=FFC0CB&bg_color=222222&hide_border=true&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)
