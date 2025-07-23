@@ -79,15 +79,6 @@ Fast learner · Adaptable
   <img src="assets/todarescue.png" alt="TODARescue" width="80" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/Pages-Beyond/BookBlast-Website">📚 Pages-Beyond</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/pupstc-student-academic-works/adet-grp-5">📅 Event.ly</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/TODARescue">🛵 TODARescue</a>
-</p>
-
-
 <hr>
 
 <h3 style="color:#FFC0CB;">GitHub Stats</h3>
