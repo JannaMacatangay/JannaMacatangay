@@ -74,7 +74,7 @@ Fast learner · Adaptable
 <div align="center">
   <img src="assets/bookblast.png" alt="Pages-Beyond: BookBlast" width="80" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/evently.png" alt="ADET FINAL PROJECT - Group 5" width="80" />
+  <img src="assets/evently.png" alt="ADET FINAL PROJECT - Group 5" width="100" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/todarescue.png" alt="TODARescue" width="80" />
 </div>
