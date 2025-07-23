@@ -5,42 +5,77 @@
 
 <hr>
 
-<h3 style="color:#FFC0CB;">🎯 Currently Building</h3>
+<h3>🎯 Currently Building</h3>
 <b>Capstone Project – TODARescue App</b><br>
 A mobile solution for real-time tricycle tracking and driver verification
 
 <hr>
 
-<h3 style="color:#FFC0CB;">💡 Interests</h3>
+<h3>💡 Interests</h3>
 UI/UX Design · Web Development · Human-Centered Design · Project Management · Data Analytics
 
 <hr>
 
-<h3 style="color:#FFC0CB;">🌟 Goal</h3>
+<h3>🌟 Goal</h3>
 Become a <b>project manager</b> who solves problems with <b>creativity</b>, <b>empathy</b>, and <b>teamwork</b>.
 
 <hr>
 
-<h3 style="color:#FFC0CB;">🧰 Tech Stack & Tools</h3>
+<h3>🧰 Tech Stack & Tools</h3>
+<h4>Languages & Frameworks</h4>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java%20Swing-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+</p>
 
-<h4 style="color:#FFC0CB;">Languages & Frameworks</h4>
-HTML · CSS · JavaScript · PHP · Java · C · C++ · C# · SQL · Python  
-Java Swing · Bootstrap
+<h4>Tools & Technologies</h4>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevC++-003366?style=flat&logo=c%2B%2B&logoColor=white" />
+</p>
 
-<h4 style="color:#FFC0CB;">Tools & Technologies</h4>
-Git · XAMPP · Postman · Cisco Packet Tracer  
-Visual Studio · VS Code · Eclipse · DevC++
+<h4>Design & Prototyping</h4>
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lucidchart-F87C00?style=flat&logo=lucidchart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Draw.io-FF9900?style=flat&logo=diagrams.net&logoColor=white" />
+</p>
 
-<h4 style="color:#FFC0CB;">Design & Prototyping</h4>
-Figma · Canva · Adobe Photoshop  
-Lucidchart · Draw.io
+<h4>Data Analytics & Reporting</h4>
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lucidchart-F87C00?style=flat&logo=lucidchart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Draw.io-FF9900?style=flat&logo=diagrams.net&logoColor=white" />
+</p>
 
-<h4 style="color:#FFC0CB;">Data Analytics & Reporting</h4>
-Microsoft Excel · Google Sheets  
-Basic SQL querying · Lucidchart / Draw.io
-
-<h4 style="color:#FFC0CB;">Project Management & Collaboration</h4>
-Microsoft Office 365 · Google Workspace · Notion · Microsoft Teams · Canva
+<h4>Project Management & Collaboration</h4>
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
+</p>
 
 <hr>
 
