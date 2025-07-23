@@ -75,17 +75,17 @@ Fast learner · Adaptable
   <tr>
     <td align="center">
       <a href="https://github.com/Pages-Beyond/BookBlast-Website">
-        <img src="assets/bookblast.png" width="80" alt="BookBlast" />
+        <img src="assets/bookblast.png" width="100" alt="BookBlast" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/pupstc-student-academic-works/adet-grp-5">
-        <img src="assets/evently.png" width="100" alt="Event.ly" />
+        <img src="assets/evently.png" width="120" alt="Event.ly" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/TODARescue">
-        <img src="assets/todarescue.png" width="80" alt="TODARescue" />
+        <img src="assets/todarescue.png" width="100" alt="TODARescue" />
       </a>
     </td>
   </tr>
