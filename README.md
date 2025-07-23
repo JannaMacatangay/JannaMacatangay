@@ -73,16 +73,21 @@ Become a project manager who solves problems with creativity, empathy, and teamw
 ---
 
 ### GitHub Organizations
-
-[![Pages-Beyond: BookBlast](assets/bookblast.png)](https://github.com/Pages-Beyond)  
+<a href="https://github.com/Pages-Beyond">
+  <img src="assets/bookblast.png" alt="Pages-Beyond: BookBlast" width="120" />
+</a>  
 **[Pages-Beyond](https://github.com/Pages-Beyond)**  
 _Web Development Final Project_
 
-[![ADET FINAL PROJECT - Group 5](assets/evently.png)](https://github.com/pupstc-student-academic-works/adet-grp-5)  
+<a href="https://github.com/pupstc-student-academic-works/adet-grp-5">
+  <img src="assets/evently.png" alt="ADET FINAL PROJECT - Group 5" width="120" />
+</a>  
 **[PUPSTC Student Academic Works – Group 5](https://github.com/pupstc-student-academic-works/adet-grp-5)**  
 _ADET Final Project_
 
-[![TODARescue](assets/todarescue.png)](https://github.com/TODARescue)  
+<a href="https://github.com/TODARescue">
+  <img src="assets/todarescue.png" alt="TODARescue" width="120" />
+</a>  
 **[TODARescue](https://github.com/TODARescue)**  
 _Capstone Project_
 
