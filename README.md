@@ -71,6 +71,9 @@ Fast learner · Adaptable
 
 <h3 style="color:#FFC0CB;">🏢 GitHub Organizations</h3>
 
+
+<h3 style="color:#FFC0CB;">🏢 GitHub Organizations</h3>
+
 <div align="center">
   <img src="assets/bookblast.png" alt="Pages-Beyond: BookBlast" width="80" />
   <img src="assets/evently.png" alt="ADET FINAL PROJECT - Group 5" width="80" style="margin: 0 40px;" />
@@ -78,9 +81,9 @@ Fast learner · Adaptable
 </div>
 
 <p align="center">
-  <a href="https://github.com/Pages-Beyond/BookBlast-Website">Pages-Beyond</a> &nbsp;·&nbsp;
-  <a href="https://github.com/pupstc-student-academic-works/adet-grp-5">Event.ly</a> &nbsp;·&nbsp;
-  <a href="https://github.com/TODARescue">TODARescue</a>
+  <a href="https://github.com/Pages-Beyond/BookBlast-Website">📚 Pages-Beyond</a> &nbsp;·&nbsp;
+  <a href="https://github.com/pupstc-student-academic-works/adet-grp-5">📅 Event.ly</a> &nbsp;·&nbsp;
+  <a href="https://github.com/TODARescue">🛵 TODARescue</a>
 </p>
 
 <hr>
