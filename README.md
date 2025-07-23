@@ -1,6 +1,6 @@
 # Hi there, I'm Janna!
 
-**3rd Year IT Student**  
+**incoming 4th Year IT Student**  
 Polytechnic University of the Philippines – Sto. Tomas Campus  
 
 ---
@@ -72,5 +72,5 @@ Become a project manager who solves problems with creativity, empathy, and teamw
 ---
 
 [![](https://github-readme-stats.vercel.app/api?username=JannaMacatangay&show_icons=true&title_color=FFC0CB&text_color=FFC0CB&icon_color=FFC0CB&bg_color=222222&border_radius=12&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JannaMacatangay&layout=compact&title_color=FFC0CB&text_color=FFC0CB&bg_color=222222&hide_border=true&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)
+
