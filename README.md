@@ -1,31 +1,74 @@
 # Hi there, I'm Janna!
 
-3rd Year IT Student  
+**3rd Year IT Student**  
 Polytechnic University of the Philippines – Sto. Tomas Campus  
 
-**Currently building:**  
-Capstone Project – **TODARescue App**   
+---
+
+### Currently Building
+**Capstone Project – TODARescue App**  
 A mobile solution for real-time tricycle tracking and driver verification
 
-**Interests:**  
+---
+
+### Interests
 UI/UX Design · Web Development · Human-Centered Design · Project Management
 
-**Goal:**  
+---
+
+### Goal  
 Become a project manager who solves problems with creativity, empathy, and teamwork 
 
 ---
 
 ### Tech Stack & Tools
-- **Languages:** C++, C, HTML, CSS, JavaScript, PHP  
-- **Frameworks/Libraries:** Bootstrap  
-- **Design & Dev Tools:** Figma, Visual Studio Code, Photoshop  
+
+#### Languages & Frameworks
+- HTML · CSS · JavaScript · PHP · Java · C · C++ · C# · SQL · Python  
+- Java Swing · Bootstrap
+
+#### Tools & Technologies  
+- Git · XAMPP · Postman · Cisco Packet Tracer  
+- Visual Studio · Visual Studio Code · Eclipse · DevC++
+
+#### Design & Prototyping Tools  
+- Figma · Canva · Adobe Photoshop  
+- Lucidchart · Draw.io
+
+#### Data Analytics & Reporting  
+- Microsoft Excel (basic formulas, charts)  
+- Google Sheets · Basic SQL querying · Lucidchart / Draw.io (process mapping)
+
+#### Project Management & Collaboration  
+- Microsoft Office 365 (Word, PowerPoint, Excel, Access)  
+- Google Workspace (Docs, Sheets, Slides, Forms, Gmail)  
+- Canva · Notion · Microsoft Teams
 
 ---
 
-**Always learning** how technology can solve real-world problems
+### Foundational Knowledge  
+- Agile & Scrum Methodology  
+---
 
-**Let's connect!**  
-- Email: jannamemacatangay5@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/janna-macatangay-19b885295/)
+### Skills
+
+#### Interpersonal  
+- Good communication & presentation skills  
+- Proficient in English speaking · Team player · Leadership  
+- Positive attitude · Sense of responsibility
+
+#### Intrapersonal  
+- Time management · Well-organized · Open-minded  
+- Quick learner · Adaptable
+
+---
+
+### Portfolio & Contact
+
+- **Portfolio:** [JannaMacatangay.github.io](https://jannamacatangay.github.io)  
+- **Email:** jannamemacatangay5@gmail.com  
+- **LinkedIn:** [linkedin.com/in/janna-macatangay-19b885295](https://www.linkedin.com/in/janna-macatangay-19b885295/)
+
+---
 
 [![](https://github-readme-stats.vercel.app/api?username=JannaMacatangay&show_icons=true&title_color=FFC0CB&text_color=FFC0CB&icon_color=FFC0CB&bg_color=222222&border_radius=12&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
