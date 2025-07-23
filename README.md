@@ -71,9 +71,6 @@ Fast learner · Adaptable
 
 <h3 style="color:#FFC0CB;">🏢 GitHub Organizations</h3>
 
-
-<h3 style="color:#FFC0CB;">🏢 GitHub Organizations</h3>
-
 <div align="center">
   <img src="assets/bookblast.png" alt="Pages-Beyond: BookBlast" width="80" />
   <img src="assets/evently.png" alt="ADET FINAL PROJECT - Group 5" width="80" style="margin: 0 40px;" />
