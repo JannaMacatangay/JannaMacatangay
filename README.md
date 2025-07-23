@@ -72,8 +72,6 @@ Become a project manager who solves problems with creativity, empathy, and teamw
 
 ---
 ### GitHub Organizations
-<h3>GitHub Organizations</h3>
-
 <div style="margin-bottom: 20px;">
   <a href="https://github.com/Pages-Beyond/BookBlast-Website">
     <img src="assets/bookblast.png" alt="Pages-Beyond: BookBlast" width="100" />
