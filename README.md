@@ -72,29 +72,31 @@ Become a project manager who solves problems with creativity, empathy, and teamw
 
 ---
 ### GitHub Organizations
-<div style="margin-bottom: 20px;">
-  <a href="https://github.com/Pages-Beyond/BookBlast-Website">
-    <img src="assets/bookblast.png" alt="Pages-Beyond: BookBlast" width="100" />
-  </a>
-  <br />
-  <em>Web Development Final Project</em>
-</div>
-
-<div style="margin-bottom: 20px;">
-  <a href="https://github.com/pupstc-student-academic-works/adet-grp-5">
-    <img src="assets/evently.png" alt="ADET FINAL PROJECT - Group 5" width="100" />
-  </a>
-  <br />
-  <em>ADET Final Project</em>
-</div>
-
-<div style="margin-bottom: 20px;">
-  <a href="https://github.com/TODARescue">
-    <img src="assets/todarescue.png" alt="TODARescue" width="100" />
-  </a>
-  <br />
-  <em>Capstone Project</em>
-</div>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Pages-Beyond/BookBlast-Website">
+        <img src="assets/bookblast.png" alt="Pages-Beyond: BookBlast" width="100" />
+      </a>
+      <br />
+      <em>Web Development Final Project</em>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/pupstc-student-academic-works/adet-grp-5">
+        <img src="assets/evently.png" alt="ADET FINAL PROJECT - Group 5" width="100" />
+      </a>
+      <br />
+      <em>ADET Final Project</em>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/TODARescue">
+        <img src="assets/todarescue.png" alt="TODARescue" width="100" />
+      </a>
+      <br />
+      <em>Capstone Project</em>
+    </td>
+  </tr>
+</table>
 
 
 ### GitHub Stats
