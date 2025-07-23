@@ -79,7 +79,6 @@ Become a project manager who solves problems with creativity, empathy, and teamw
     <img src="assets/bookblast.png" alt="Pages-Beyond: BookBlast" width="100" />
   </a>
   <br />
-  <strong><a href="https://github.com/Pages-Beyond/BookBlast-Website">Pages-Beyond</a></strong><br />
   <em>Web Development Final Project</em>
 </div>
 
@@ -88,7 +87,6 @@ Become a project manager who solves problems with creativity, empathy, and teamw
     <img src="assets/evently.png" alt="ADET FINAL PROJECT - Group 5" width="100" />
   </a>
   <br />
-  <strong><a href="https://github.com/pupstc-student-academic-works/adet-grp-5">PUPSTC Academic Works – Group 5</a></strong><br />
   <em>ADET Final Project</em>
 </div>
 
@@ -97,7 +95,6 @@ Become a project manager who solves problems with creativity, empathy, and teamw
     <img src="assets/todarescue.png" alt="TODARescue" width="100" />
   </a>
   <br />
-  <strong><a href="https://github.com/TODARescue">TODARescue</a></strong><br />
   <em>Capstone Project</em>
 </div>
 
